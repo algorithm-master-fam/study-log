@@ -1,4 +1,4 @@
-# 0213-15 : Stack, DFS, Backtracking
+# Stack, DFS, Backtracking
 
 ## 스택(stack)
 
