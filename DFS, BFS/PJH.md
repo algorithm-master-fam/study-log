@@ -197,8 +197,8 @@
       <details>
       <summary>enqueue/dequeue/peek </summary>
       <div markdown="1">
-    
-     ![스크린샷 2024-11-24 오후 10.58.22.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fph%2F_z8zjw6x6bggjw1q_n4bv4x80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_mgaRbg%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-11-24%20%EC%98%A4%ED%9B%84%2010.58.22.png)
+         
+      ![스크린샷 2024-11-24 오후 11 15 17](https://github.com/user-attachments/assets/9a4afb1a-9579-46d4-93b9-afd015939451)
       </div>
       </details>
 
