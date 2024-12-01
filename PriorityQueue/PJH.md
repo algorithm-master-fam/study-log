@@ -38,8 +38,9 @@ Priority Queue 구현은 Heap을 이용해 구현하는 것이 일반적이다.
 ### 이진 힙 조건  
 이진 힙은 각 노드의 값은 그 노드의 모든 자식 노드의 값보다 커야 하는 조건을 가지고 있으며, 이때의 규칙을 힙 조건(heap condition)이라 부른다.  
 
+
 아래 예시 그림을 보면, 각 노드는 그 자식보다 크므로 힙 조건을 만족하고 있다.  
-![스크린샷 2024-12-01 오후 10.44.43.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fph%2F_z8zjw6x6bggjw1q_n4bv4x80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_nFi1WK%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-12-01%20%EC%98%A4%ED%9B%84%2010.44.43.png)
+![스크린샷 2024-12-01 오후 11 05 44](https://github.com/user-attachments/assets/c45d0f22-a023-4431-ae66-4d1e8b1ffd2f)
 이진 탐색 트리가 떠오를 수 있는데,  
 이진 탐색 트리에서 각 노드의 오른쪽 자식은 그 노드보다 크지만 힙에서의 노드는 그 노드의 모든 자식보다 크다는 점을 볼 수 있다.  
 
@@ -50,7 +51,7 @@ Priority Queue 구현은 Heap을 이용해 구현하는 것이 일반적이다.
 
 ---
 
-### Priority Queue 우선순위 부여 조건  
+## Priority Queue 우선순위 부여 조건  
 1. `java.lang.Comparable` : **원소 스스로** 다른 원소와 자신을 비교할 때 사용하는 방법
     - compareTo() 구현 필요
     - 자기 자신과 매개변수 객체 비교 
